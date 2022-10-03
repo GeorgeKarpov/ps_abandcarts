@@ -1,1 +1,1 @@
-# New Customer notifier
+# Abandoned carts notofier
