@@ -1,1 +1,1 @@
-# Abandoned carts notofier
+# Abandoned carts notifier
