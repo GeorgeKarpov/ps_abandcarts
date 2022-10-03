@@ -1,0 +1,29 @@
+INSERT INTO `PREFIX_translation` (`id_lang`, `key`, `translation`, `domain`, `theme`) VALUES(2, 'Cart Reminder', 'Iepirkumu groza atgādinājums', 'ModulesAbandcartsEmail', NULL);
+INSERT INTO `PREFIX_translation` (`id_lang`, `key`, `translation`, `domain`, `theme`) VALUES(2, 'Hi {firstname} {lastname},', 'Seiki {firstname} {lastname},', 'ModulesAbandcartsEmail', NULL);
+INSERT INTO `PREFIX_translation` (`id_lang`, `key`, `translation`, `domain`, `theme`) VALUES(2, 'Your cart at {shop_name}', 'Jūsu grozs {shop_name} veikalā', 'ModulesAbandcartsEmail', NULL);
+INSERT INTO `PREFIX_translation` (`id_lang`, `key`, `translation`, `domain`, `theme`) VALUES(2, 'Thanks for your visit. However, it looks like you did not complete your purchase.', 'Paldies par jūsu apmeklējumu. Tomēr šķiet, ka nepabeidzāt pirkumu.', 'ModulesAbandcartsEmail', NULL);
+INSERT INTO `PREFIX_translation` (`id_lang`, `key`, `translation`, `domain`, `theme`) VALUES(2, 'Your cart has been saved, you can go back to your order on our shop.', 'Jūsu grozs ir saglabāts, varat atgriezties pie pasūtījuma mūsu veikalā.', 'ModulesAbandcartsEmail', NULL);
+INSERT INTO `PREFIX_translation` (`id_lang`, `key`, `translation`, `domain`, `theme`) VALUES(2, 'Recover cart', 'Atgūt grozu', 'ModulesAbandcartsEmail', NULL);
+INSERT INTO `PREFIX_translation` (`id_lang`, `key`, `translation`, `domain`, `theme`) VALUES(2, 'We are pleased to offer you a discount of [1]{amount}[/1] for next order over {minamount}. And this offer is valid for [1]{days}[/1] days, so do not wait any longer!', 'Mēs esam priecīgi piedāvāt jums atlaidi [1]{amount}[/1] apmērā nākamajam pasūtījumam virs {minamount}. Šis piedāvājums ir spēkā tikai [1]{days}[/1] dienas!', 'ModulesAbandcartsEmail', NULL);
+INSERT INTO `PREFIX_translation` (`id_lang`, `key`, `translation`, `domain`, `theme`) VALUES(2, 'Your voucher on {shop_name}', 'Jūsu atlaides kupons {shop_name} veikalā', 'ModulesAbandcartsEmail', NULL);
+INSERT INTO `PREFIX_translation` (`id_lang`, `key`, `translation`, `domain`, `theme`) VALUES(2, 'Here is your VOUCHER CODE:', 'Šeit ir jūsu KUPONA KODS:', 'ModulesAbandcartsEmail', NULL);
+INSERT INTO `PREFIX_translation` (`id_lang`, `key`, `translation`, `domain`, `theme`) VALUES(2, 'Enter this code in your shopping cart to get the discount.', 'Ievadiet šo kodu iepirkumu grozā, lai saņemtu atlaidi.', 'ModulesAbandcartsEmail', NULL);
+INSERT INTO `PREFIX_translation` (`id_lang`, `key`, `translation`, `domain`, `theme`) VALUES(2, 'Coupon not valid on sale items.', 'Kupons nav derīgs akcijas precēm.', 'ModulesAbandcartsEmail', NULL);
+
+INSERT INTO `PREFIX_translation` (`id_lang`, `key`, `translation`, `domain`, `theme`) VALUES(2, 'Cart voucher', 'Groza kupons', 'ModulesAbandcartsAdmin', NULL);
+INSERT INTO `PREFIX_translation` (`id_lang`, `key`, `translation`, `domain`, `theme`) VALUES(2, 'Abandoned Carts', 'Pamestie grozi', 'ModulesAbandcartsAdmin', NULL);
+
+INSERT INTO `PREFIX_translation` (`id_lang`, `key`, `translation`, `domain`, `theme`) VALUES(4, 'Cart Reminder', 'Напоминание о корзине покупок', 'ModulesAbandcartsEmail', NULL);
+INSERT INTO `PREFIX_translation` (`id_lang`, `key`, `translation`, `domain`, `theme`) VALUES(4, 'Hi {firstname} {lastname},', 'Привет {firstname} {lastname},', 'ModulesAbandcartsEmail', NULL);
+INSERT INTO `PREFIX_translation` (`id_lang`, `key`, `translation`, `domain`, `theme`) VALUES(4, 'Your cart at {shop_name}', 'Ваша корзина покупок в магазине {shop_name}', 'ModulesAbandcartsEmail', NULL);
+INSERT INTO `PREFIX_translation` (`id_lang`, `key`, `translation`, `domain`, `theme`) VALUES(4, 'Thanks for your visit. However, it looks like you did not complete your purchase.', 'Благодарим за визит. Однако, похоже, вы не завершили покупку.', 'ModulesAbandcartsEmail', NULL);
+INSERT INTO `PREFIX_translation` (`id_lang`, `key`, `translation`, `domain`, `theme`) VALUES(4, 'Your cart has been saved, you can go back to your order on our shop.', 'Ваша корзина сохранена, вы можете вернуться к своему заказу в нашем магазине.', 'ModulesAbandcartsEmail', NULL);
+INSERT INTO `PREFIX_translation` (`id_lang`, `key`, `translation`, `domain`, `theme`) VALUES(4, 'Recover cart', 'Восстановить корзину', 'ModulesAbandcartsEmail', NULL);
+INSERT INTO `PREFIX_translation` (`id_lang`, `key`, `translation`, `domain`, `theme`) VALUES(4, 'We are pleased to offer you a discount of [1]{amount}[/1] for next order over {minamount}. And this offer is valid for [1]{days}[/1] days, so do not wait any longer!', 'Мы рады предложить вам скидку в размере [1]{amount}[/1] на следующий заказ свыше {minamount}. Это предложение действительно в течение [1]{days}[/1] дней!', 'ModulesAbandcartsEmail', NULL);
+INSERT INTO `PREFIX_translation` (`id_lang`, `key`, `translation`, `domain`, `theme`) VALUES(4, 'Your voucher on {shop_name}', 'Ваш купон в магазине {shop_name}', 'ModulesAbandcartsEmail', NULL);
+INSERT INTO `PREFIX_translation` (`id_lang`, `key`, `translation`, `domain`, `theme`) VALUES(4, 'Here is your VOUCHER CODE:', 'Код купона:', 'ModulesAbandcartsEmail', NULL);
+INSERT INTO `PREFIX_translation` (`id_lang`, `key`, `translation`, `domain`, `theme`) VALUES(4, 'Enter this code in your shopping cart to get the discount.', 'Введите этот код в корзину покупок, чтобы получить скидку.', 'ModulesAbandcartsEmail', NULL);
+INSERT INTO `PREFIX_translation` (`id_lang`, `key`, `translation`, `domain`, `theme`) VALUES(4, 'Coupon not valid on sale items.', 'Купон не действует на акционные товары.', 'ModulesAbandcartsEmail', NULL);
+
+INSERT INTO `PREFIX_translation` (`id_lang`, `key`, `translation`, `domain`, `theme`) VALUES(4, 'Cart voucher', 'Купон корзины покупок', 'ModulesAbandcartsAdmin', NULL);
+INSERT INTO `PREFIX_translation` (`id_lang`, `key`, `translation`, `domain`, `theme`) VALUES(4, 'Abandoned Carts', 'Забытые корзины', 'ModulesAbandcartsAdmin', NULL);

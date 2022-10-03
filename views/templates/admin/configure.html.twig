@@ -1,0 +1,24 @@
+{#**
+ * Copyright since 2007 PrestaShop SA and Contributors
+ * PrestaShop is an International Registered Trademark & Property of PrestaShop SA
+ *
+ * NOTICE OF LICENSE
+ *
+ * This source file is subject to the Academic Free License 3.0 (AFL-3.0).
+ * It is also available through the world-wide-web at this URL: https://opensource.org/licenses/AFL-3.0
+ *#}
+
+{% extends '@Modules/abandcarts/views/templates/admin/layout.html.twig' %}
+
+{% block controllerTitle %}
+	{{ 'Configure controller'|trans({}, 'Modules.Abandcarts.Admin') }}
+{% endblock %}
+
+{% block controllerDescription %}
+	<div class="row justify-content-center">
+		<div class="col">
+			<h2>Configure controller</h2>
+            <h3>{{test}}</h3>
+		</div>
+	</div>
+{% endblock %}

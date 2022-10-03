@@ -1,0 +1,13 @@
+{shop_url}
+
+Hi {firstname} {lastname},
+
+Your cart at {shop_name}
+
+Thanks for your visit. However, it looks like you did not complete your purchase.
+
+Your cart has been saved, you can go back to your order on our shop.
+
+[Recover cart]({cart_link})
+
+[{shop_name}]({shop_url})
